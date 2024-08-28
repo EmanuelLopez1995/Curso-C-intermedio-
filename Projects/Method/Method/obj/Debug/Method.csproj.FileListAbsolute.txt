@@ -1,0 +1,8 @@
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\bin\Debug\Method.exe.config
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\bin\Debug\Method.exe
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\bin\Debug\Method.pdb
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\obj\Debug\Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\obj\Debug\Method.exe
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\Method\Method\obj\Debug\Method.pdb

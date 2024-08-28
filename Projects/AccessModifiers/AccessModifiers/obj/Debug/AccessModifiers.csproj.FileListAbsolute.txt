@@ -1,0 +1,8 @@
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe.config
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.exe
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\bin\Debug\AccessModifiers.pdb
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.AssemblyReference.cache
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.SuggestedBindingRedirects.cache
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.exe
+C:\Users\emanuel.b.lopez\OneDrive - Accenture\Documents\Ema\Resumen Cursos\Udemy\C# Intermediate Classes, Interfaces and OOP\Projects\AccessModifiers\AccessModifiers\obj\Debug\AccessModifiers.pdb
